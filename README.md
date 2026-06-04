@@ -7,7 +7,7 @@ networking, and cybersecurity, through the deployment of a web server on an
 Ubuntu Server 24.04 LTS VPS.
 
 The server hosts the website of the Call of Dragons alliance "Ad Infernum"
-on the domain [ad-infernum.com](https://ad-infernum.com), and serves as a
+on the domain [eternal-vanguard.com](eternal-vanguard.com), and serves as a
 practical training ground in preparation for my career transition to
 sysadmin / network / cybersecurity engineer (OpenClassrooms training,
 starting January 2027, funded by Transition Pro).
