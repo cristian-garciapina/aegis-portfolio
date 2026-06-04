@@ -6,7 +6,7 @@ This repository documents my hands-on learning project in system administration,
 networking, and cybersecurity, through the deployment of a web server on an
 Ubuntu Server 24.04 LTS VPS.
 
-The server hosts the website of the Call of Dragons alliance "Ad Infernum"
+The server hosts the website of the Call of Dragons alliance "Eternal Vanguard"
 on the domain [eternal-vanguard.com](eternal-vanguard.com), and serves as a
 practical training ground in preparation for my career transition to
 sysadmin / network / cybersecurity engineer (OpenClassrooms training,
